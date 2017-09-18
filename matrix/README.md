@@ -1,1 +1,1 @@
-A program for solving a linear algebra matrix using by using a linked list data structure
+A program for solving a Linear algebra matrix using by using linked-list data structure
